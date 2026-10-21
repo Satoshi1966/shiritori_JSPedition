@@ -1,0 +1,2 @@
+src/main/java/shiritori/web/GameData.java
+src/main/java/shiritori/web/GameServlet.java
